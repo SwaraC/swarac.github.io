@@ -1,4 +1,4 @@
-# Personal Portfolio 🔥
+# Personal Portfolio 
 > https://swarac.github.io/
 
 
